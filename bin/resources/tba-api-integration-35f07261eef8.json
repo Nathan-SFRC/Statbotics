@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tba-api-integration",
+  "private_key_id": "35f07261eef8f867e40021600d0df941d42225a8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCdDeDfacr4Ztz3\nzVpdbMhOc83jYRr5IcH/o7YQO51maulo4uG/zOBUAmNIYsvdFMjcbMYvjJkGqCJX\nvudUVmhsC2XDKyL43Fz2Z1u8J/jh5Ioq43aMDdexHT0pXgY0PlBB1S3Wx4YhC8wS\nYMdIhFNaY2NCPvTNrDQAlcOr8HwQaVS/UmccYxAal/G2WFoMIdFGwzSEY1PGM3BC\nncNzlmrpH+izUYf5hPKLxnU/8lTuESOgcGJQ4B5POnTyzSbiVvVxERVHqccK1I1J\noOnS6RWb5vHVcL8aLb6fI05lRP+diPXUVrwGQcWdXIrDBrnXuXZhl51bghKZjLT6\nB7Zoty9zAgMBAAECggEAKMjg28PCZM15lpRqYhaM0eq6zdB6y7WbhoKCFicVEfKz\nmHxKuZ8/pjFUjQiy/j+Whb9tnA1788GX4Yd+1WT3Cw/Opmc+VrgLICXpKayLskXC\nJ68YKvixSZpZNrPnEowYFXCBzePUjiJdJWyic8+BQdjLfvmQYxTUEE7UGIOEBFKd\n7uth/THanFojIPvGVtpyIJUUE/b1hVSEctddNAGhh7QhvLvtFGKmqzhQ1iEPfVI4\nAs98T/crn90GUlBwP7fzuB9y3zpTetPYlHnRlnp3fv9u6xrBQNK7J63dJkQxT8ss\nAEzCwffkhHbYWet/0wXhqG1xyskz5oCk5n/5a+B4wQKBgQDPWQfq9r4qjo7Mx45S\nVbgwOtVcyD4ten0CX0ul1RgQ0XFG522aPAINcCVlkC+ZWXNMbpg0erQjrBFyaSFT\nutuTBB6RiARI26OZ6SGY/atrzj9Lx/2azmZV5+QH0dkvlcTVT8KlfP3JOTmloxPe\n+vXKUps+wY6goo0W7JFeFozrEwKBgQDB59Aem2zpySe7hDunEr5kIENFexZ9ynDk\nsw3Dnf/qbj0ttEeKKFBK9ZaPpGupByp2n+JkBrSBq0IRLwBlyAmR7VfptU9C7nm/\ndk1gFMMxDdrxczbB/N5omrZSHHLfqMDlZUtvKvUZKUGkx1LIHLZdXn8Q91EZ+Tdu\npy2xeinWIQKBgQCv7/KY+98miyo+NoHb+SI9wl4yyTKBMnMKZUPyJZuzAZSlvk+w\n1IRFVMhWon7RFyaPTzRVK1zY+/Md6ni97ErON2ucvxYroDr0qO26PFyNMEdjDQJy\nrfoFoKtLu1MXXnTTL0eRVjqd2LHCi1qcFMQkde2G1YQpZ2RidD9w35+ZAwKBgQCm\nqiM+S4VfpKBcEppbTkcLNJfdvqBkWn6SdDxeaQ2waDR5dj0PSPtKkrBoooBO9nPP\nJjmmlATOd27/6hBDa56eKQypOkf4VZWbtYloDjB/l1MauVbVgg2Ah4oyJXWvPBMg\nmOIvmRK2H7nmcdR7YAJ3WmOJJ6oz0vuMRnGF3GTdQQKBgQCRJTsKsodb450g8fML\nEjkgW73xw1DXdbhJev/jYNdi0z9J6CTzDB+vs/fsXqyb+hKCo8PUOL7gakBH2Gwo\nMsNuRjPbnPbWlOs+Ty3+cVnV8sNyxVXMM54MvwNEOvmGZcuIt/hg5TdgZWUt6AwP\nR50ygDhiW6MB6LZ3CbHn9LfE+g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "nathan-schultz@tba-api-integration.iam.gserviceaccount.com",
+  "client_id": "103115858998067231937",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nathan-schultz%40tba-api-integration.iam.gserviceaccount.com"
+}
